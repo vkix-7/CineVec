@@ -1,6 +1,6 @@
-# Movie-Recommender-application
-Movie Recommendation System is a Python Application  with Collaborative Filtering and Vector Search Using MongoDB database, HuggingFace embeded Models , and Python Streamlit Library 
-<b><br>Movie Recommendation System with Collaborative Filtering and Vector Search:</b><br>
+# CineVec
+Cinevec  is a Python based Movie Recommendation Application  with Collaborative Filtering and Vector Search Using MongoDB database, HuggingFace embeded Models , and Python Streamlit Library 
+<b> System with Collaborative Filtering and Vector Search:</b><br>
 This project presents a movie recommendation system that combines both collaborative filtering and vector search techniques to recommend movies to users.<br>
 The core dataset includes 11,506 American movies released between 1970 and 2023, along with ratings from 11,675 users.<br>
 To address the cold-start problem, the system employs vector embeddings generated using the Sentence Transformer model. These embeddings capture semantic information beyond explicit ratings, allowing similarity comparisons even for unseen movies or users.<br>
